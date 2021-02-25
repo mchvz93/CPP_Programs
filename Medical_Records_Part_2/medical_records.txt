@@ -1,0 +1,9 @@
+mozart amadeus 27 01 1756 104 79 11233
+bach johann 31 03 1685 120 65 23455
+beethoven ludwig 17 12 1770 130 80 55433
+tchaikovsky pyotr 07 05 1840 125 77 34512
+chopin frederic 01 03 1810 140 90 22595
+einstein albert 14 03 1879 111 76 44332
+newton isaac 04 01 1643 115 85 30399
+liebnitz gottfried 01 07 1646 110 55 94033
+gauss friedrich 23 04 1564 101 78 38393
